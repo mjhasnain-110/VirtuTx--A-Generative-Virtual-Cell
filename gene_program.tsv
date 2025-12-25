@@ -1,0 +1,71 @@
+guide_merged	gene_program
+KLF1_BAK1	Pro-growth
+POU3F2_CBFA2T3	Pioneer factors
+CDKN1A	G1 cell cycle arrest
+CDKN1C_CDKN1A	G1 cell cycle arrest
+CDKN1B_CDKN1A	G1 cell cycle arrest
+CDKN1C_CDKN1B	G1 cell cycle arrest
+JUN_CEBPA	Granulocyte/apoptosis
+CEBPA	Granulocyte/apoptosis
+CEBPE_CEBPA	Granulocyte/apoptosis
+CEBPB_CEBPA	Granulocyte/apoptosis
+KLF1_CEBPA	Granulocyte/apoptosis
+ZC3HAV1_CEBPA	Granulocyte/apoptosis
+FOSB_CEBPB	Granulocyte/apoptosis
+CEBPB	Granulocyte/apoptosis
+CEBPE_CEBPB	Granulocyte/apoptosis
+CEBPE	Granulocyte/apoptosis
+FOSB_CEBPE	Granulocyte/apoptosis
+ETS2_CEBPE	Granulocyte/apoptosis
+CBL_CNN1	Erythroid
+UBASH3B_CNN1	Erythroid
+KLF1	Pro-growth
+MIDN	Pioneer factors
+PTPN1	Erythroid
+TP73	Pioneer factors
+MAPK1	Megakaryocyte
+FOXA3	Pioneer factors
+HOXC13	Pioneer factors
+ATL1	Erythroid
+HOXA13	Pioneer factors
+CDKN1B	G1 cell cycle arrest
+SPI1	Granulocyte/apoptosis
+CDKN1C	G1 cell cycle arrest
+ETS2	Megakaryocyte
+FOXA3_FOXA1	Pioneer factors
+FOXA1_FOXF1	Pioneer factors
+POU3F2_FOXL2	Pioneer factors
+FOXA1_FOXL2	Pioneer factors
+FOXF1_FOXL2	Pioneer factors
+FOXA3_FOXL2	Pioneer factors
+FOXA3_HOXB9	Pioneer factors
+FOXF1_HOXB9	Pioneer factors
+FOXA1_HOXB9	Pioneer factors
+LYL1_IER5L	Pioneer factors
+CEBPE_KLF1	Pro-growth
+AHR_KLF1	Pro-growth
+KLF1_MAP2K6	Pro-growth
+CEBPB_MAPK1	Megakaryocyte
+ETS2_MAPK1	Megakaryocyte
+FOXL2_MEIS1	Pioneer factors
+UBASH3B_PTPN12	Erythroid
+CBL_PTPN12	Erythroid
+SAMD1_PTPN12	Erythroid
+CBL_PTPN9	Erythroid
+UBASH3B_PTPN9	Erythroid
+PTPN12_PTPN9	Erythroid
+CEBPE_RUNX1T1	Granulocyte/apoptosis
+BPGM_SAMD1	Erythroid
+ZBTB10_SNAI1	Pioneer factors
+DUSP9_SNAI1	Pioneer factors
+CEBPE_SPI1	Granulocyte/apoptosis
+MAPK1_TGFBR2	Megakaryocyte
+KLF1_TGFBR2	Pro-growth
+UBASH3B_UBASH3A	Erythroid
+PTPN12_UBASH3A	Erythroid
+CNN1_UBASH3A	Erythroid
+CBL_UBASH3B	Erythroid
+SAMD1_UBASH3B	Erythroid
+UBASH3B_ZBTB25	Erythroid
+PTPN12_ZBTB25	Erythroid
+Control	Control
